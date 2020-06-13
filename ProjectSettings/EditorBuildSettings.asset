@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tails of Schala/Title Screen.unity
+    guid: 15cd1a265a1ec3840b0ea80feec51a43
+  - enabled: 1
+    path: Assets/Tails of Schala/Level_0.unity
+    guid: f104758c52a293e44bfc5074cf62dbbb
+  - enabled: 1
+    path: Assets/Tails of Schala/First Room.unity
+    guid: 8a1b5bfb8f66c0747ace9a1279b350b5
+  - enabled: 1
+    path: Assets/Tails of Schala/Medieval House.unity
+    guid: 21e7b22a469dd494a927c9353cd042e2
+  m_configObjects: {}
